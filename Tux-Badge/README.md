@@ -4,7 +4,7 @@
 
 Inspired by a small [SMD tutorial](https://git.hacksaar.de/makeit/smdtutorial) of a local [hackerspace](https://www.hacksaar.de/), we took the Linux brand character as a basis for this Badge. Thereby we want to give first SMD experiences to interested by a simple and straightforward example.
 
-<img src="manual/images/thumbnail.jpg" width=300px alt="Tux-Badge"> 
+<img src="manual/images/thumbnail.jpeg" width=300px alt="Tux-Badge"> 
 
 ## Bill of Material
 
