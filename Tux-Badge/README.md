@@ -1,26 +1,27 @@
-# Cat in a Box
+# Tux-Badge
 
-A Cat in a box easy SMD kit. Bright glowing LED-eyes are watching every step! With this soldering kit it is super easy to learn SMD soldering.
+[![GitHub release](https://img.shields.io/github/release/lugsaar/Tux-Badge.svg)](https://GitHub.com/lugsaar/Tux-Badge/releases/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<img src="manual/images/thumbnail.jpg" width=300px alt="Cat in a Box"> <img src="manual/images/PXL_20210221_105555598.jpg" width=300px alt="Cat in a Box">
+Inspired by a small [SMD tutorial](https://git.hacksaar.de/makeit/smdtutorial) of a local [hackerspace](https://www.hacksaar.de/), we took the Linux brand character as a basis for this Badge. Thereby we want to give first SMD experiences to interested by a simple and straightforward example.
 
-- Status: **Complete**
-- Difficulty: **2/5**
+<img src="manual/images/thumbnail.jpg" width=300px alt="Tux-Badge"> 
 
-### Parts List
+## Bill of Material
 
-| Description                   | Quantity |
-|-------------------------------|----------|
-| SMD LED 0805                  |     2    |
-| 0805 SMD Resistor 47 Ohm	|     1    |
-| Button (SMD)                  |     1    |
-| CR2032 Battery Holder (SMD)   |     1    |
-| CR2032 Battery (not included) |     1    |
+| Designator |       Package      | Quantity |   Designation   | LCSC      |
+|:----------:|:------------------:|----------|:---------------:|:---------:|
+| BT1        | SMD Battery Holder | 1        | CR2032          | C964829   |
+| D1         | 0805 SMD LED       | 1        | LED Yellow      | C434436   |
+| R1         | 0805 SMD Resistor  | 1        |  62 Ohm         | C865596   |
+| SW1        | SMD Switch         | 1        |                 | C202424   |
 
-### Copyright and Authorship
+## Copyright and Authorship 
 
-- Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Timo Schindler
-- Cat SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [box cat by Denis Sazhin from the Noun Project](https://thenounproject.com/term/box-cat/704953/) (We've bought a licence, you should honor the artist work too!)
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-### Buy Soldering Kits
-If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/de/Katzen-Loetbausatz-01-Einfacher-SMD-Bausatz-zum-sammeln-und-tauschen/blink232342)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
